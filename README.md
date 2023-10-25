@@ -1,21 +1,21 @@
-<h1 align="center">ACM Day 1 Problem</h1>
+<h1 align="center">ACM Day 2 Problem</h1>
 <p align="center">
     Welcome to the ACM 75-Day Hard Challenge! Elevate your Data Structures and Algorithms (DSA) skills and become a stronger computer scientist.
 </p>
 
 ## Challenge Overview
 
-- **Problem Statement**: [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- **Day**: 1
-- **Date**: October 24, 2023
+- **Problem Statement**: [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
+- **Day**: 2
+- **Date**: October 25, 2023
 
 ## Problem Details
 
-You are given an array prices where prices[i] is the price of a given stock on the ith day.
+YGiven an array nums with n objects colored red, white, or blue, sort them in-place so that objects of the same color are adjacent, with the colors in the order red, white, and blue.
 
-You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
+We will use the integers 0, 1, and 2 to represent the color red, white, and blue, respectively.
 
-Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.
+You must solve this problem without using the library's sort function.
 
 ## How to Participate
 
