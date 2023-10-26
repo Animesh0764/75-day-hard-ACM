@@ -11,7 +11,7 @@
 
 ## Challenge Details
 
-Each day, you'll receive a new DSA problem. These problems span various complexity levels, ensuring a comprehensive learning experience.
+Each day, I'll receive a new DSA problem. These problems span various complexity levels, ensuring a comprehensive learning experience.
 
 ## How to Participate
 
