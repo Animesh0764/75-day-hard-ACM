@@ -1,19 +1,17 @@
-<h1 align="center">ACM Day 5 Problem</h1>
+<h1 align="center">ACM 75-Day Hard Challenge</h1>
 <p align="center">
     Welcome to the ACM 75-Day Hard Challenge! Elevate your Data Structures and Algorithms (DSA) skills and become a stronger computer scientist.
 </p>
 
 ## Challenge Overview
 
-- **Problem Statement**: [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
-- **Day**: 5
-- **Date**: October 28, 2023
+- **Challenge Duration**: 75 Days
+- **Start Date**: October 24, 2023
+- **End Date**: January 6, 2024
 
-## Problem Details
+## Challenge Details
 
-Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's.
-
-You must do it in place.
+Each day, I'll receive a new DSA problem. These problems span various complexity levels, ensuring a comprehensive learning experience.
 
 ## How to Participate
 
